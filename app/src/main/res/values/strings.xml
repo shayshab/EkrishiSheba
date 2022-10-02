@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--app info-->
+    <string name="app_name">E krishi Service</string>
+    <string name="copyright">Copyright © 2022 Decoders Squad Developer. \nAll right reserved</string>
+    <string name="share_content">I Would like to share this with you. Here You Can Download This Application from PlayStore</string>
+
+    <!--bottom navigation title-->
+    <string name="title_nav_home">Home</string>
+    <string name="title_nav_category">Category</string>
+    <string name="title_nav_video">Video</string>
+    <string name="title_nav_favorite">Favorite</string>
+
+    <!-- toolbar and title-->
+    <string name="title_menu_profile">Profile</string>
+    <string name="title_menu_edit_profile">Edit Profile</string>
+    <string name="title_menu_close">Close</string>
+    <string name="title_menu_save">Save</string>
+    <string name="title_menu_font_size">Font Size</string>
+    <string name="title_menu_later">Favorite</string>
+    <string name="title_menu_share">Share</string>
+    <string name="title_menu_search">Search&#8230;</string>
+    <string name="title_menu_browser">Open In Browser</string>
+    <string name="title_menu_settings">Settings</string>
+    <string name="title_login">LOGIN</string>
+    <string name="title_register">REGISTER</string>
+    <string name="title_forgot_password">FORGOT PASSWORD</string>
+    <string name="txt_suggested">Suggested</string>
+
+    <!--favorite-->
+    <string name="whops">Whoops!</string>
+    <string name="favorite_added">Added to Favorite</string>
+    <string name="favorite_removed">Removed from Favorite</string>
+    <string name="no_favorite_found">Your favorite list is empty because you don\'t add any news in the favorite menu.</string>
+
+    <!--register-->
+    <string name="register_title">Thanks for Register</string>
+    <string name="register_success">Register successfully&#8230;</string>
+    <string name="register_process">Registering your account&#8230;</string>
+    <string name="register_exist">Email address already used!</string>
+    <string name="terms_text">By creating an account, you agree with our</string>
+    <string name="terms_n_privacy">Terms &amp; Privacy</string>
+    <string name="title_please_wait">Please Wait&#8230;</string>
+    <string name="already_have_account">Already have an account?</string>
+
+    <!--login-->
+    <string name="login_title">Good Job!</string>
+    <string name="login_process">Processing login to your account&#8230;</string>
+    <string name="login_success">Login Successfully&#8230;</string>
+    <string name="login_failed">Invalid Email or Password!</string>
+    <string name="login_disabled">Account has been disabled, please contact administrator to enable your account</string>
+    <string name="do_not_have_account">Don\'t have an account?</string>
+    <string name="register_now">Register Now</string>
+    <string name="txt_login_now">LOGIN NOW</string>
+
+    <!--logout-->
+    <string name="logout_title">Logout</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="logout_message">Are you sure want to logout?</string>
+    <string name="logout_process">Processing logout to your account&#8230;</string>
+    <string name="logout_success">Logout Successfully</string>
+
+    <!--forgot password-->
+    <string name="forgot_message">Enter the email that used during registration.</string>
+    <string name="forgot_verify_email">is verifying your email</string>
+    <string name="forgot_send_email">is sending forgot password request to your email.</string>
+    <string name="forgot_failed_message">Email is not found in our database!</string>
+    <string name="forgot_success_message">The password has been sent to your email, please check your inbox, if it is not found in your inbox, please check your spam folder.</string>
+    <string name="forgot_password">Forgot Password?</string>
+
+    <!--profile-->
+    <string name="txt_profile_welcome">Welcome!</string>
+    <string name="txt_profile_not_registered">Not registered?</string>
+    <string name="txt_profile_register_now">Register Now</string>
+    <string name="txt_profile_login">LOGIN</string>
+    <string name="updating_profile">Updating Profile</string>
+    <string name="success_updating_profile">Update Successfully</string>
+    <string name="waiting_message">Please wait&#8230;</string>
+    <string name="title_setting_share">Share to friends</string>
+
+    <!--comments-->
+    <string name="title_comments">Comments</string>
+    <string name="txt_no_comment">Write your first comment&#8230;</string>
+    <string name="msg_no_comment">no comments yet, write your first comment.</string>
+    <string name="comment_hint">Write your comment&#8230;</string>
+    <string name="confirm_send_comment">Send this comment?</string>
+    <string name="confirm_delete_comment">Are you sure want to delete your comment?</string>
+    <string name="sending_comment">Sending comment&#8230;</string>
+    <string name="updating_comment">Updating comment&#8230;</string>
+    <string name="msg_comment_success">You have successfully posted a comment</string>
+    <string name="msg_comment_failed">Failed post comment!</string>
+    <string name="msg_comment_update">Your comment successfully updated</string>
+    <string name="msg_update_comment_failed">Failed update comment</string>
+    <string name="msg_comment_approval">Thank you, your comments will be reviewed soon and will be displayed immediately after getting approval.</string>
+    <string name="msg_write_comment">Please write your message first&#8230;</string>
+    <string name="msg_write_comment_character">your message at least 6 character&#8230;</string>
+    <string name="msg_success_delete_comment">Your comment was deleted successfully.</string>
+    <string name="msg_failed_delete_comment">Whoops! failed to delete comment!</string>
+    <string name="btn_update">UPDATE</string>
+    <string name="hint_update_comment">Update Comment</string>
+    <string name="txt_read">Read</string>
+    <string name="txt_comment">Comment</string>
+    <string name="txt_comments">Comments</string>
+    <string name="txt_you">you</string>
+    <string name="txt_title_update_comment">Update Comment</string>
+    <string name="txt_dialog_edit">Edit</string>
+    <string name="txt_dialog_delete">Delete</string>
+    <string name="txt_dialog_reply">Reply</string>
+    <string name="img_content_description">TODO</string>
+
+    <!--settings and others-->
+    <string name="title_setting_theme">Dark Mode</string>
+    <string name="sub_title_setting_theme">Better eyesight and power saving</string>
+    <string name="title_setting_text_size">Text Size</string>
+    <string name="sub_title_setting_text_size">Preferred text size for posts description</string>
+    <string name="title_setting_notification">Push Notification</string>
+    <string name="sub_title_setting_notification">Manage push notification settings</string>
+    <string name="title_setting_clear_search_history">Clear search history</string>
+    <string name="title_setting_privacy">Privacy Policy</string>
+    <string name="title_setting_publisher">Publisher Info</string>
+    <string name="title_setting_rate">Rate us</string>
+    <string name="title_setting_more_apps">More apps</string>
+    <string name="title_setting_about">About</string>
+    <string name="title_about_privacy">Privacy Policy</string>
+    <string name="title_about_publisher">Publisher Info</string>
+    <string name="title_dialog_clear_search_history">Clear Search History</string>
+    <string name="msg_dialog_clear_search_history">Are you sure want to clear your search history?</string>
+    <string name="clearing_process">Clearing search history&#8230;</string>
+    <string name="clearing_success">Search history cleared successfully&#8230;</string>
+    <string name="clearing_empty">Your search history is empty</string>
+
+    <!--network message-->
+    <string name="offline">You\'re offline</string>
+    <string name="msg_offline">The next time you\'re online, try saving some news to favorite that you can read without an Internet connection.</string>
+    <string name="msg_no_news">Oops, it looks like there are no news available for this category at this time.</string>
+    <string name="msg_no_category">Oops, No Category Found!</string>
+    <string name="msg_no_news_found">Oops, No News Found! if you want to continue search, please try enter another keyword!</string>
+    <string name="msg_no_network">Oops, there is something problem with your network or the server is currently down, please try it again later.</string>
+    <string name="msg_search_input">Please Fill Search Input</string>
+    <string name="msg_failed_stream">Failed to load stream, probably the stream server currently down!</string>
+    <string name="btn_retry">RETRY</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="msg_cancel_update">Update canceled</string>
+    <string name="msg_success_update">Update success!</string>
+    <string name="msg_failed_update">Update Failed!</string>
+
+    <!--redirect if app suspended-->
+    <string name="redirect_title">New App Updates</string>
+    <string name="redirect_message">This application has expired and is no longer used, press OK to download and install the latest update of this application.</string>
+
+    <!--dialog choose option-->
+    <string name="dialog_success">Success!</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+
+    <!--font size name -->
+    <string name="title_dialog_font_size">Select Font Size</string>
+    <string name="font_size_xsmall">Extra Small</string>
+    <string name="font_size_small">Small</string>
+    <string name="font_size_medium">Medium</string>
+    <string name="font_size_large">Large</string>
+    <string name="font_size_xlarge">Extra Large</string>
+
+    <!--dialog close app-->
+    <string name="dialog_close_title">Thank You</string>
+    <string name="dialog_close_msg">Thank you for using our app, please give us your suggestions or feedback</string>
+    <string name="dialog_option_quit">QUIT</string>
+    <string name="dialog_option_rate_us">RATE US</string>
+    <string name="dialog_option_more">MORE APPS</string>
+    <string name="press_again_to_exit">Press again to exit app</string>
+
+    <!--form-->
+    <string name="edt_name">Name</string>
+    <string name="edt_email">Email</string>
+    <string name="edt_password">Password</string>
+
+    <!--button-->
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_send">SEND</string>
+
+</resources>

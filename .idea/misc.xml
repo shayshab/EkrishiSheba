@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/drawable/bg_button_background.xml" value="0.1" />
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/drawable/bg_gradient_soft.xml" value="0.1" />
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/drawable/bg_shadow.xml" value="0.1" />
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/drawable/bg_shimmer.xml" value="0.1" />
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/layout/activity_edit_profile.xml" value="0.24094202898550723" />
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/layout/activity_full_screen_image.xml" value="0.18541666666666667" />
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/layout/activity_image_slider.xml" value="0.18541666666666667" />
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/layout/activity_privacy_policy.xml" value="0.24094202898550723" />
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/layout/activity_splash.xml" value="0.18541666666666667" />
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/layout/activity_youtube.xml" value="0.24094202898550723" />
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/layout/include_post_comment.xml" value="0.18541666666666667" />
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/layout/lsv_item_news_big.xml" value="0.24094202898550723" />
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/layout/lsv_item_suggestion.xml" value="0.24094202898550723" />
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/layout/lsv_item_video.xml" value="0.24094202898550723" />
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/layout/toolbar.xml" value="0.24094202898550723" />
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/menu/main.xml" value="0.18541666666666667" />
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/menu/menu_image.xml" value="0.18541666666666667" />
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/menu/menu_navigation_default.xml" value="0.3625" />
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/menu/menu_navigation_no_video.xml" value="0.3625" />
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/menu/menu_news_detail.xml" value="0.3625" />
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/menu/menu_webview.xml" value="0.3625" />
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1085" />
+        <entry key="..\:/project/codelist/androidnewsapp-450/codecanyon-10771397-android-news-app/android_news_app_4.5.0/android_studio/AndroidNewsApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
