@@ -10,7 +10,7 @@ android {
         applicationId "com.app.androidkrishiapp"
         minSdkVersion 21
         targetSdkVersion 32
-        versionCode 24
+        versionCode 01
         versionName "4.5.0"
         multiDexEnabled true
     }
